@@ -6,9 +6,15 @@ Safe to Sign respects your privacy. This Privacy Policy explains how information
 
 ## 1. Information Collection
 
+1. Information Collection
+
 Safe to Sign does not require users to create an account and does not directly collect personal information such as your name or email address.
 
-Any text or content you input into the app (such as contracts or agreements) is used solely to provide analysis results and is not stored or shared by us.
+Any text or content you input into the app (such as contracts or agreements) is used solely to provide analysis results.
+
+Before any analysis occurs, users are shown a consent prompt explaining that their contract text will be sent to a secure third-party AI service. Users must explicitly agree before any data is transmitted.
+
+The data is processed in real-time and is not stored by Safe to Sign after analysis is complete.
 
 ## 2. Advertising & Third-Party Services
 
@@ -32,15 +38,13 @@ https://policies.google.com/privacy
 ## 3. Data Usage
 
 <h2>Data Usage</h2>
-<p>
-Safe to Sign sends user-provided contract text to a secure third-party AI service for analysis.
-This data is used only to generate results and is not stored or retained after processing.
-</p>
+3. Data Usage
 
-<h2>Third-Party Services</h2>
-<p>
-We use third-party AI services (such as OpenAI or similar providers) to analyze contract content.
-No personal data is sold or shared beyond this purpose.
+Safe to Sign sends user-provided contract text to a secure third-party AI service for analysis. This data is used only to generate results and is not stored or retained by Safe to Sign after processing.
+
+Third-Party Services
+
+We use third-party AI services (such as OpenAI or similar providers) to analyze contract content. These services process the data solely for generating results and do not use it for unrelated purposes.
 </p>
 
 ## 4. Data Sharing
