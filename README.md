@@ -31,7 +31,17 @@ https://policies.google.com/privacy
 
 ## 3. Data Usage
 
-Any information processed within the app is used only to provide contract analysis and improve user experience. We do not store or sell your data.
+<h2>Data Usage</h2>
+<p>
+Safe to Sign sends user-provided contract text to a secure third-party AI service for analysis.
+This data is used only to generate results and is not stored or retained after processing.
+</p>
+
+<h2>Third-Party Services</h2>
+<p>
+We use third-party AI services (such as OpenAI or similar providers) to analyze contract content.
+No personal data is sold or shared beyond this purpose.
+</p>
 
 ## 4. Data Sharing
 
