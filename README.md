@@ -14,6 +14,18 @@ Before any analysis occurs, users are shown a consent prompt explaining that the
 
 The data is processed in real-time and is not stored by Safe to Sign after analysis is complete.
 
+## AI Processing and Third-Party Services
+
+Safe to Sign uses OpenAI, a third-party AI service provider, to generate contract analysis results.
+
+When users submit contract text for analysis, the text is securely transmitted to OpenAI for processing.
+
+Data is transmitted only after the user manually submits text for analysis.
+
+The app does not sell personal information. Users should avoid submitting highly sensitive personal, financial, medical, or confidential information through the app.
+
+Submitted text is used solely to generate AI-powered contract analysis results.
+
 ## 2. Data Usage
 
 Safe to Sign sends user-provided contract text to a secure third-party AI service for analysis. This data is used only to generate results and is not stored or retained by Safe to Sign after processing.
